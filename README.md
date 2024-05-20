@@ -5,7 +5,7 @@ In this project, I am going to explore the american amusement park dataset,
 the packages I am going to use will mainly be pandas, numpy, matplotlip.pyplot & seaborn 
 
 ## The data
-### **school.csv**
+### **coaster.csv**
 | Column | Description |
 |--------|-------------|
 | `coaster_name` | The name of coaster |
